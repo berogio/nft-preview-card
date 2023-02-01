@@ -19,6 +19,7 @@
 
 .main .card .card-cover {
     background-image: url(./assets/images/image-equilibrium.jpg);
+    border-radius: 15px;
     width: 302px;
     height: 302px;
     background-repeat: no-repeat;
