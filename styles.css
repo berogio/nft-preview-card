@@ -23,6 +23,12 @@
     height: 302px;
     background-repeat: no-repeat;
     background-size: contain;
+    cursor: pointer;
+    transition: 2s;
+}
+
+.main .card .card-cover:hover {
+    transform: rotateY(180deg);
 }
 
 .main .card .card-body :first-child {
