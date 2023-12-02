@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Outfit;
+    src: url(./assets/fonts/Outfit-Medium.ttf);
+}
+
+@font-face {
+    font-family: Outfitregular;
+    src: url(./assets/fonts/Outfit-Regular.ttf);
+}
+
+@font-face {
+    font-family: Outfitl;
+    src: url(./assets/fonts/Outfit-ExtraLight.ttf);
+}
